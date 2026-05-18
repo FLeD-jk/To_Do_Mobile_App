@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Todo_Mobile_App" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorSecondaryContainer">#97BEF4</item>
+        <item name="colorPrimary">#2563EB</item>
+    </style>
+
+    <style name="Theme.Todo_Mobile_App" parent="Base.Theme.Todo_Mobile_App" />
+</resources>
