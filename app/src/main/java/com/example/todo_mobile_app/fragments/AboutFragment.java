@@ -1,9 +1,9 @@
 package com.example.todo_mobile_app.fragments;
 
 import com.example.todo_mobile_app.R;
-import com.example.todo_mobile_app.api.ApiClient;
 import com.example.todo_mobile_app.api.ApiService;
 import com.example.todo_mobile_app.models.AboutResponse;
+import com.example.todo_mobile_app.api.RetrofitClient;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -54,10 +54,10 @@ public class AboutFragment extends Fragment {
         return view;
     }
 
-    private void loadAbout() {
+    private void loadAbout() {jeba@gmail.com
 
         ApiService apiService =
-                ApiClient.getClient().create(ApiService.class);
+                RetrofitClient.getClient().create(ApiService.class);
 
         progress.setVisibility(View.VISIBLE);
 
