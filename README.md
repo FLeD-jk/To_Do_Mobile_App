@@ -4,5 +4,5 @@ To_Do_Mobile_App
 
 Розрахунково-графічна робота
 
-Програмування інтерфкйсів користувача https://docs.google.com/document/d/1qIwTUNenH_CtsbmN_tBbLmC_Hd1aS2PHC4A_RKE5aQA/edit?tab=t.0
+Програмування інтерфейсів користувача https://docs.google.com/document/d/1qIwTUNenH_CtsbmN_tBbLmC_Hd1aS2PHC4A_RKE5aQA/edit?tab=t.0
 
